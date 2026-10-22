@@ -24,7 +24,7 @@ repository               : "SuperSyt-530/SuperSyt-530.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr Shen Yongting Tia"
+  name             : "Dr Shen Yongting (Tia)"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant Professor"
   location         : "Hong Kong"
@@ -41,7 +41,6 @@ author:
   orcid            : "https://orcid.org/0009-0009-3806-3262"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Yongting-Shen?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +56,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
