@@ -23,7 +23,7 @@ repository               : "SuperSyt-530/SuperSyt-530.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.png"
+  avatar           : "me.png"
   name             : "Dr Shen Yongting (Tia)"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant Professor"
