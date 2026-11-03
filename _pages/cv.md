@@ -24,7 +24,7 @@ EDUCATION BACKGROUND
 WORK EXPERIENCE
 ======
 * 2026.10-Present
-  * Research Assistant Professor **<span style="color: #B22222;">加粗且红色的文字</span>**
+  * **<span style="color: #B22222;">Research Assistant Professor</span>**
   * The Hong Kong Polytechnic University
   * Team: Prof. Jerry Yan's
 
