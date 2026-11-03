@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,28 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION BACKGROUND
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Energy Engineering, The Hong Kong Polytechnic University, 2024.08
+* M.S. in Engineering, Sun Yat-Sen University, 2021.06
+* B.S. in Engineering, Sun Yat-Senb University, 2018.06
 
-Work experience
+WORK EXPERIENCE
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2026.10-Present
+  * The Hong Kong Polytechnic University
+  * Research Assistant Professor
+  * Team: Prof. Jerry Yan's
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2026.06-2026.10
+  * The Hong Kong Polytechnic University
+  * Postdoctoral Fellow
+  * Cooperation Supervisor: Prof. Jerry Yan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.09-2026.05
+  * The Hong Kong Polytechnic University
+  * Postdoctoral Fellow
+  * Cooperation Supervisor: Prof. Hongxing Yang & Prof. Vivien Lin Lu
   
 Skills
 ======
