@@ -1,4 +1,4 @@
----
+<img width="268" height="49" alt="image" src="https://github.com/user-attachments/assets/5505def4-0c69-4cc4-8a9a-7c7736752803" />---
 layout: archive
 title: "My CV"
 permalink: /cv/
@@ -32,33 +32,56 @@ WORK EXPERIENCE
   * Postdoctoral Fellow
   * Cooperation Supervisor: Prof. Hongxing Yang & Prof. Vivien Lin Lu
   
-Skills
+RESEARCH INTERESTS
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Indoor carbon capture and utilization
+  * Integrated energy systems
+  * Low-carbon buildings and sustainable urban environment
 
-Publications
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+INVITED TALKS
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+TEACHING EXPERIENCE
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+SERVICES AND LEADERSHIP
 ======
 * Currently signed in to 43 different slack teams
+
+WORK EXPERIENCE
+======
+* 2025 - Innovative Award
+  * International Conference on Sustainable Building Energy Engineering
+
+* 2025 - Best Paper Award
+  * International Conference on Sustainable Building Energy Engineering
+ 
+* 2025 - WSSET Innovation Award
+  * World Society of Sustainable Energy Technologies, the only awardee from Hong Kong
+
+* 2024 - 3MT Champion
+  * BEEE 3MT Doctoral Thesis Competition, The Hong Kong Polytechnic University
+  
+* 2021 - University Award for Outstanding Thesis
+  * Sun Yat-Sen University, top 5% of the faculty
+
+* 2021 - University Award for Outstanding  Graduates
+  * Sun Yat-Sen University, top 5% of faculty
+    
+* 2020 - National Scholarship Award
+  * Ministry of Education of the PR China, top 3 of the faculty
+
+* 2020 - First-class Scholarship
+  * Sun Yat-Sen University
