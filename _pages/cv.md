@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
+<style>
+  .page__title {
+    text-align: center !important;
+    color: #B22222 !important;   }
+</style>
+
+
 {% include base_path %}
 
 EDUCATION BACKGROUND
