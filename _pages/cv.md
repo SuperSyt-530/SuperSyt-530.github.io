@@ -9,7 +9,6 @@ redirect_from:
 
 <style>
   .page__title {
-    text-align: center !important;
     color: #B22222 !important;   }
 </style>
 
@@ -18,25 +17,25 @@ redirect_from:
 
 EDUCATION BACKGROUND
 ======
-* Ph.D in Energy Engineering, The Hong Kong Polytechnic University, 2024.08
-* M.S. in Engineering, Sun Yat-Sen University, 2021.06
-* B.S. in Engineering, Sun Yat-Senb University, 2018.06
+* Ph.D in Energy Engineering, The Hong Kong Polytechnic University, 2021.09-2024.08
+* M.S. in Engineering, Sun Yat-Sen University, 2018.09-2021.06
+* B.S. in Engineering, Sun Yat-Sen University, 2014.09-2018.06
 
 WORK EXPERIENCE
 ======
 * 2026.10-Present
+  * Research Assistant Professor **<span style="color: #B22222;">加粗且红色的文字</span>**
   * The Hong Kong Polytechnic University
-  * Research Assistant Professor
   * Team: Prof. Jerry Yan's
 
 * 2026.06-2026.10
-  * The Hong Kong Polytechnic University
   * Postdoctoral Fellow
+  * The Hong Kong Polytechnic University
   * Cooperation Supervisor: Prof. Jerry Yan
 
 * 2024.09-2026.05
-  * The Hong Kong Polytechnic University
   * Postdoctoral Fellow
+  * The Hong Kong Polytechnic University
   * Cooperation Supervisor: Prof. Hongxing Yang & Prof. Vivien Lin Lu
   
 RESEARCH INTERESTS
