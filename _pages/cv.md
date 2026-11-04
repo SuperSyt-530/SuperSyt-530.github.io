@@ -36,7 +36,7 @@ WORK EXPERIENCE
 * 2024.09-2026.05
   * Postdoctoral Fellow
   * The Hong Kong Polytechnic University
-  * Cooperation Supervisor: Prof. Hongxing Yang & Prof. Vivien Lin Lu
+  * Cooperation Supervisor: Prof. Hongxing Yang and Prof. Vivien Lin Lu
   
 RESEARCH INTERESTS
 ======
