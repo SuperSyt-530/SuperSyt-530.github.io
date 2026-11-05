@@ -26,7 +26,6 @@ WORK EXPERIENCE
 * 2026.10-Present
   * **<span style="color: #B22222;">Research Assistant Professor</span>**
   * The Hong Kong Polytechnic University
-  * Team: Prof. Jerry Yan's
 
 * 2026.06-2026.10
   * Postdoctoral Fellow
